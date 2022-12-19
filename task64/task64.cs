@@ -18,7 +18,7 @@ Console.Write("Задайте число N: ");
 int userNum = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine();
-Console.Write("Число от N до 1: ");
+Console.Write("Числа от N до 1: ");
 FromNtoOne(userNum);
 Console.WriteLine();
 
