@@ -27,3 +27,5 @@ int Sum (int M, int N)
     for (int i = M; i <= N; i++) sum += i;
     return sum;
 }
+
+// Протестировано 22.12.2022

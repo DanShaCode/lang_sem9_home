@@ -31,3 +31,5 @@ void FromNtoOne(int n)
     }
     else Console.Write($"{n}");
 }
+
+// Протестировано 22.12.2022
